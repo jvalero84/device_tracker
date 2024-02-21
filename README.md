@@ -2,9 +2,13 @@
 
 This projects is a basic application to track IoT devices.
 
-It is structured in two parts:
+It is structured in two parts / folders:
 
 # Backend
+
+### `npm start`
+
+Runs the backend server.
 
 The backend is created with node.js express framework and uses json-server to create a server that exposes a REST api structure based on the data contained on the file db.json
 

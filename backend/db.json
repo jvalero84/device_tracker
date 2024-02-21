@@ -87,22 +87,6 @@
       "last_connection": "03-05-2022 19:34",
       "latitude": 40.6374,
       "longitud": -3.1685
-    },
-    {
-      "name": "My querido Ipon",
-      "mobile_number": "55513298",
-      "latitude": "33.1413",
-      "longitud": "-15.5425",
-      "last_connection": "2024-02-21T00:29:17.334Z",
-      "id": 12
-    },
-    {
-      "name": "My telefono de backup",
-      "mobile_number": "555-788725",
-      "latitude": "37.4214",
-      "longitud": "-21.5533",
-      "last_connection": "2024-02-21T00:34:50.206Z",
-      "id": 13
     }
   ]
 }

@@ -8,12 +8,9 @@ const DeviceDetail = () => {
   let { id } = useParams();
 
   useEffect(() => {
-    console.log(`id: ${id}`);
-
     const getDeviceData = async () => {
       try {
         const res = await axios.get(`/devices/${id}`);
-        console.log(res.data);
         setDevice(res.data);
       } catch (err) {
         console.log(err);

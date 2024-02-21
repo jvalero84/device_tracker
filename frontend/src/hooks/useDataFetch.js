@@ -10,7 +10,7 @@ const useDataFetch = () => {
 
     try {
       const res = await axios.get("/devices");
-      console.log("fetching data...");
+      //console.log("fetching data...");
       setDevicesData(res.data);
     } catch (err) {
       console.log(err);
