@@ -1,0 +1,108 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "name": "Apple Iphone 12",
+      "mobile_number": "555-111111",
+      "last_connection": "19-02-2024 15:02",
+      "latitude": 40.3155,
+      "longitud": -3.7126
+    },
+    {
+      "id": 2,
+      "name": "Apple Iphone 13",
+      "mobile_number": "555-222222",
+      "last_connection": "25-12-2023 12:05",
+      "latitude": 41.9537,
+      "longitud": -2.931
+    },
+    {
+      "id": 3,
+      "name": "Samsung S23",
+      "mobile_number": "555-333333",
+      "last_connection": "18-10-2023 15:13",
+      "latitude": 50.8466,
+      "longitud": 4.3829
+    },
+    {
+      "id": 4,
+      "name": "Redmi Note 12",
+      "mobile_number": "555-444444",
+      "last_connection": "15-08-2022 16:05",
+      "latitude": 53.343,
+      "longitud": -6.2403
+    },
+    {
+      "id": 5,
+      "name": "Samsung S21",
+      "mobile_number": "555-666666",
+      "last_connection": "11-04-2023 13:47",
+      "latitude": 51.556,
+      "longitud": -0.1082
+    },
+    {
+      "id": 6,
+      "name": "Samsung Z-Flip",
+      "mobile_number": "555-777777",
+      "last_connection": "26-09-2023 17:03",
+      "latitude": 51.5562,
+      "longitud": -0.2795
+    },
+    {
+      "id": 7,
+      "name": "One Plus 8T",
+      "mobile_number": "555-777777",
+      "last_connection": "27-11-2023 21:28",
+      "latitude": 51.1299,
+      "longitud": 1.3192
+    },
+    {
+      "id": 8,
+      "name": "One Plus Note 2",
+      "mobile_number": "555-777777",
+      "last_connection": "30-10-2023 18:14",
+      "latitude": 48.8876,
+      "longitud": 2.3434
+    },
+    {
+      "id": 9,
+      "name": "Motorola G73",
+      "mobile_number": "555-777777",
+      "last_connection": "14-07-2023 23:29",
+      "latitude": 43.4475,
+      "longitud": -2.7848
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 7",
+      "mobile_number": "555-777777",
+      "last_connection": "17-03-2022 10:42",
+      "latitude": 40.4538,
+      "longitud": -3.6886
+    },
+    {
+      "id": 11,
+      "name": "Oppo A78",
+      "mobile_number": "555-777777",
+      "last_connection": "03-05-2022 19:34",
+      "latitude": 40.6374,
+      "longitud": -3.1685
+    },
+    {
+      "name": "My querido Ipon",
+      "mobile_number": "55513298",
+      "latitude": "33.1413",
+      "longitud": "-15.5425",
+      "last_connection": "2024-02-21T00:29:17.334Z",
+      "id": 12
+    },
+    {
+      "name": "My telefono de backup",
+      "mobile_number": "555-788725",
+      "latitude": "37.4214",
+      "longitud": "-21.5533",
+      "last_connection": "2024-02-21T00:34:50.206Z",
+      "id": 13
+    }
+  ]
+}
